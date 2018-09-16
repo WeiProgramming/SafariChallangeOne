@@ -1,0 +1,23 @@
+.container {
+    font-family: 'Didact Gothic', sans-serif !important;
+}
+
+.gallery-content {
+    margin-top:3%;
+}
+
+.col-md-3.pic{
+    padding-right: 0 !important;
+    margin-top: 1%;
+    padding-left: 1%;
+}
+
+.pic:hover {
+    opacity: .8;
+}
+
+.input-group {
+    width:80% !important;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}

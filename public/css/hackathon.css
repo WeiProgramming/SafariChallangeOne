@@ -1,0 +1,30 @@
+body {
+    background: url('/images/monkey.jpg');
+    background-position: center;
+    background-size: cover;
+    font-family: 'Didact Gothic', sans-serif !important;
+}
+
+.search-text {
+    letter-spacing: .3em;
+}
+
+#search-bar-input {
+    border-radius: 20px;
+}
+
+#search-bar {
+    margin-top: 15%;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+}
+
+button a:hover {
+    color: black;
+}
